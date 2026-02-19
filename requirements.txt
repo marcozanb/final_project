@@ -1,6 +1,0 @@
-numpy
-pandas
-matplotlib
-seaborn
-beautifulsoup4
-requests
